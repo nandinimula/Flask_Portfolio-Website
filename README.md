@@ -1,9 +1,7 @@
 Flask Portfolio Website
 
 
-1) Overview:
-
-A simple personal portfolio website built with **Python**, **Flask**, **HTML**, and **CSS**. This project is a mini web app that displays your personal info, skills, and projects, and includes a contact form.
+1) Overview: A simple personal portfolio website built with **Python**, **Flask**, **HTML**, and **CSS**. This project is a mini web app that displays your personal info, skills,  and projects, and includes a contact form.
 
 
 2) Features:
